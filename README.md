@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 My name is Lucas and I'm a software engineer with bachelor's degree in Computer Science. 🤓 Currently, I'm working full time as a full stack developer which I really love doing! ❤️ Moreover, I really hope I can work on game development some day, which is one of my passions. 🎮
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbertoncello&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **lbertoncello/lbertoncello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
