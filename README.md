@@ -4,7 +4,7 @@ My name is Lucas and I'm a software engineer with bachelor's degree in Computer 
 
 ---
 
-### Top Languages, Frameworks & Technologies
+### Top Languages, Frameworks & Tools
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
