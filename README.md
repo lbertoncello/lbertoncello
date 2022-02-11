@@ -1,3 +1,5 @@
+<img align="right" style="width: 200px" src="https://gist.github.com/lbertoncello/a0ed93def0abe80cb33a65725af0c24f/raw/669a79a561f8743bc1cddb6e2c2c99fb37642396/welcome.gif" />
+
 ### Hi there 👋
 
 My name is Lucas and I'm a software engineer with bachelor's degree in Computer Science. 🤓 Currently, I'm working full time as a full stack developer which I really love doing! ❤️ Moreover, I really hope I can work on game development some day, which is one of my passions. 🎮
