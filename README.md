@@ -36,13 +36,13 @@ My name is Lucas and I'm a software engineer with bachelor's degree in Computer 
 
 ### Statistics 📊
 
-<img alt="Top Langs" align="left" style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+<img alt="Top Langs" align="left" style="width: 400px; height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 
-<img alt="Stats" style="width: 485px" src="https://github-readme-streak-stats.herokuapp.com/?user=lbertoncello&theme=tokyonight" />
+<img alt="Stats" style="width: 400px; height: 200px" src="https://github-readme-streak-stats.herokuapp.com/?user=lbertoncello&theme=tokyonight" />
 
 ---
 
-<img alt="GitHub Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=lbertoncello&theme=tokyonight">
+<img alt="GitHub Stats" align="left" style="width: 400px; height: 200px" src="https://github-readme-stats.vercel.app/api?username=lbertoncello&theme=tokyonight">
 
-<img alt="GitHub trophies"  style="width: 495px; height: 200px" src="https://github-profile-trophy.vercel.app/?username=lbertoncello&column=4&theme=tokyonight">
+<img alt="GitHub trophies"  style="width: 400px; height: 200px" src="https://github-profile-trophy.vercel.app/?username=lbertoncello&column=4&theme=tokyonight">
 
