@@ -8,7 +8,7 @@ My name is Lucas and I'm a software engineer with bachelor's degree in Computer 
 
 ### Connect with me 📱
   
-<a href="https://www.linkedin.com/in/lbandrade/">
+<a href="https://www.linkedin.com/in/lbertoncello/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
