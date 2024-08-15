@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Lucas and I'm a software engineer with bachelor's degree in Computer Science. 🤓 Currently, I'm working full time as a full stack developer which I really love doing! ❤️ Moreover, I really hope I can work on game development some day, which is one of my passions. 🎮
+My name is Lucas and I'm a software engineer with bachelor's degree in Computer Science. 🤓 Currently, I'm working full time as a full stack developer which I really love doing!
 
 ---
 
